@@ -19,7 +19,7 @@ Aerodynamic force inbcludes normal force to wing plane, which are decomposed int
 ## aerodynamic_forces_lift_and_thrust
 ![calculated results](https://github.com/xijunke/HoverEnergyConsumptionOptimizations_WGP/blob/main/hybrid_GA_fminsearch_WGP_7_4_fixed_C_F_original/force_power_results/pic_png/aerodynamic_forces_lift_and_thrust.png)
 
-## aerodynamic_forces_lift_and_thrust∫¨πﬂ–‘¡¶
+## aerodynamic_forces_lift_and_thrust_with_inertial_force
 ![calculated results]
 (https://github.com/xijunke/HoverEnergyConsumptionOptimizations_WGP/blob/main/hybrid_GA_fminsearch_WGP_7_4_fixed_C_F_original/force_power_results/pic_png/aerodynamic_forces_lift_and_thrust%E5%90%AB%E6%83%AF%E6%80%A7%E5%8A%9B.png)
 
