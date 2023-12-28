@@ -48,23 +48,23 @@
 
 # 3. 弦向(z-axis)气动力, 力矩和转动阻尼力矩
 
-## 3.1 弦向(翅坐标系z轴)气动力矩随时间的变化规律
+## 弦向(翅坐标系z轴)气动力矩随时间的变化规律
 ![miscellaneous](https://github.com/xijunke/HoverEnergyConsumptionOptimizations_WGP/blob/main/hybrid_GA_fmincon_OptResDisplay/result_pic/%E5%BC%A6%E5%90%91(%E7%BF%85%E5%9D%90%E6%A0%87%E7%B3%BBz%E8%BD%B4)%E6%B0%94%E5%8A%A8%E5%8A%9B%E7%9F%A9%E9%9A%8F%E6%97%B6%E9%97%B4%E7%9A%84%E5%8F%98%E5%8C%96%E8%A7%84%E5%BE%8B.bmp)
 
 
 
 # 4.  翅膀自身惯性气动力矩分量M_{inert,x}(t) & M_{inert,z}(t)andM_{inert,y}(t)随时间的变化
-![https://github.com/xijunke/HoverEnergyConsumptionOptimizations_WGP/blob/main/hybrid_GA_fmincon_OptResDisplay/result_pic/%E7%BF%85%E8%86%80%E8%87%AA%E8%BA%AB%E6%83%AF%E6%80%A7%E6%B0%94%E5%8A%A8%E5%8A%9B%E7%9F%A9%E5%88%86%E9%87%8FM_%7Binert%2Cx%7D(t)%20%26%20M_%7Binert%2Cz%7D(t)andM_%7Binert%2Cy%7D(t)%E9%9A%8F%E6%97%B6%E9%97%B4%E7%9A%84%E5%8F%98%E5%8C%96.bmp)
+![miscellaneous](https://github.com/xijunke/HoverEnergyConsumptionOptimizations_WGP/blob/main/hybrid_GA_fmincon_OptResDisplay/result_pic/%E7%BF%85%E8%86%80%E8%87%AA%E8%BA%AB%E6%83%AF%E6%80%A7%E6%B0%94%E5%8A%A8%E5%8A%9B%E7%9F%A9%E5%88%86%E9%87%8FM_%7Binert%2Cx%7D(t)andM_%7Binert%2Cz%7D(t)andM_%7Binert%2Cy%7D(t)%E9%9A%8F%E6%97%B6%E9%97%B4%E7%9A%84%E5%8F%98%E5%8C%96.bmp)
 
 
 
-## 5. 虚质量气动力矩随时间的变化规律
-![miscellaneous](https://github.com/xijunke/HoverEnergyConsumptionOptimizations_WGP/blob/main/hybrid_GA_fmincon_OptResDisplay/result_pic/%E5%BC%A6%E5%90%91(https://github.com/xijunke/HoverEnergyConsumptionOptimizations_WGP/blob/main/hybrid_GA_fmincon_OptResDisplay/result_pic/%E8%99%9A%E8%B4%A8%E9%87%8F%E6%B0%94%E5%8A%A8%E5%8A%9B%E7%9F%A9%E9%9A%8F%E6%97%B6%E9%97%B4%E7%9A%84%E5%8F%98%E5%8C%96%E8%A7%84%E5%BE%8B.bmp)
+# 5. 虚质量气动力矩随时间的变化规律
+![miscellaneous](https://github.com/xijunke/HoverEnergyConsumptionOptimizations_WGP/blob/main/hybrid_GA_fmincon_OptResDisplay/result_pic/%E8%99%9A%E8%B4%A8%E9%87%8F%E6%B0%94%E5%8A%A8%E5%8A%9B%E7%9F%A9%E9%9A%8F%E6%97%B6%E9%97%B4%E7%9A%84%E5%8F%98%E5%8C%96%E8%A7%84%E5%BE%8B.bmp)
 
 
 
 # 6. 翅膀自身重力力矩分量M_{inert,x}(t),M_{inert,y}(t)andM_{inert,z}(t)随时间的变化
-![miscellaneous](https://github.com/xijunke/HoverEnergyConsumptionOptimizations_WGP/blob/main/hybrid_GA_fmincon_OptResDisplay/result_pic/%E5%BC%A6%E5%90%91(https://github.com/xijunke/HoverEnergyConsumptionOptimizations_WGP/blob/main/hybrid_GA_fmincon_OptResDisplay/result_pic/%E7%BF%85%E8%86%80%E8%87%AA%E8%BA%AB%E9%87%8D%E5%8A%9B%E5%8A%9B%E7%9F%A9%E5%88%86%E9%87%8FM_%7Binert%2Cx%7D(t)%2CM_%7Binert%2Cy%7D(t)andM_%7Binert%2Cz%7D(t)%E9%9A%8F%E6%97%B6%E9%97%B4%E7%9A%84%E5%8F%98%E5%8C%96.bmp)
+![miscellaneous](https://github.com/xijunke/HoverEnergyConsumptionOptimizations_WGP/blob/main/hybrid_GA_fmincon_OptResDisplay/result_pic/%E7%BF%85%E8%86%80%E8%87%AA%E8%BA%AB%E9%87%8D%E5%8A%9B%E5%8A%9B%E7%9F%A9%E5%88%86%E9%87%8FM_%7Binert%2Cx%7D(t)andM_%7Binert%2Cy%7D(t)andM_%7Binert%2Cz%7D(t)%E9%9A%8F%E6%97%B6%E9%97%B4%E7%9A%84%E5%8F%98%E5%8C%96.bmp)
 
 
 
@@ -88,16 +88,3 @@
 
 ## 8.2 弦向(z-axis)-气动力力矩,翅膀自身惯性力力矩及总力矩绕扭转轴的***功率***-随时间的变化规律
 ![miscellaneous](https://github.com/xijunke/HoverEnergyConsumptionOptimizations_WGP/blob/main/hybrid_GA_fmincon_OptResDisplay/result_pic/%E5%BC%A6%E5%90%91(z-axis)-%E6%B0%94%E5%8A%A8%E5%8A%9B%E5%8A%9B%E7%9F%A9%2C%E7%BF%85%E8%86%80%E8%87%AA%E8%BA%AB%E6%83%AF%E6%80%A7%E5%8A%9B%E5%8A%9B%E7%9F%A9%E5%8F%8A%E6%80%BB%E5%8A%9B%E7%9F%A9%E7%BB%95%E6%89%AD%E8%BD%AC%E8%BD%B4%E7%9A%84%E5%8A%9F%E7%8E%87-%E9%9A%8F%E6%97%B6%E9%97%B4%E7%9A%84%E5%8F%98%E5%8C%96%E8%A7%84%E5%BE%8B.bmp)
-
-
-
-
-
-
-
-
-
-
-
-
-
