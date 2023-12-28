@@ -21,7 +21,7 @@ Aerodynamic force inbcludes normal force to wing plane, which are decomposed int
 
 ## aerodynamic_forces_lift_and_thrust_with_inertial_force
 ![calculated results]
-(https://github.com/xijunke/HoverEnergyConsumptionOptimizations_WGP/blob/main/hybrid_GA_fminsearch_WGP_7_4_fixed_C_F_original/force_power_results/pic_png/aerodynamic_forces_lift_and_thrust%E5%90%AB%E6%83%AF%E6%80%A7%E5%8A%9B.png)
+(https://github.com/xijunke/HoverEnergyConsumptionOptimizations_WGP/blob/main/hybrid_GA_fminsearch_WGP_7_4_fixed_C_F_original/force_power_results/pic_png/aerodynamic_forces_lift_and_thrust_with_inertial_force.png)
 
 ## 沿着扭转轴x_{rw}-axis的气动功率和惯性功率
 ![calculated results](https://github.com/xijunke/HoverEnergyConsumptionOptimizations_WGP/blob/main/hybrid_GA_fminsearch_WGP_7_4_fixed_C_F_original/force_power_results/pic_png/%E6%B2%BF%E7%9D%80%E6%89%AD%E8%BD%AC%E8%BD%B4x_%7Brw%7D-axis%E7%9A%84%E6%B0%94%E5%8A%A8%E5%8A%9F%E7%8E%87%E5%92%8C%E6%83%AF%E6%80%A7%E5%8A%9F%E7%8E%87_2.png)
