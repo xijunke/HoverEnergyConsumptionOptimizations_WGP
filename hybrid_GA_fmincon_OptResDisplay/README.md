@@ -5,9 +5,6 @@
 ## 采用前后缘拟合函数绘制右侧翅膀形貌, 扭转轴的位置和压心随时间和空间的分布
 ![miscellaneous](https://github.com/xijunke/HoverEnergyConsumptionOptimizations_WGP/blob/main/hybrid_GA_fmincon_OptResDisplay/result_pic/%E9%87%87%E7%94%A8%E5%89%8D%E5%90%8E%E7%BC%98%E6%8B%9F%E5%90%88%E5%87%BD%E6%95%B0%E7%BB%98%E5%88%B6%E5%8F%B3%E4%BE%A7%E7%BF%85%E8%86%80%E5%BD%A2%E8%B2%8C%2C%20%E6%89%AD%E8%BD%AC%E8%BD%B4%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%92%8C%E5%8E%8B%E5%BF%83%E9%9A%8F%E6%97%B6%E9%97%B4%E5%92%8C%E7%A9%BA%E9%97%B4%E7%9A%84%E5%88%86%E5%B8%83.bmp)
 
-## 采用前后缘拟合函数绘制右侧翅膀形貌, 扭转轴的位置和压心随时间和空间的分布
-![miscellaneous](https://github.com/xijunke/HoverEnergyConsumptionOptimizations_WGP/blob/main/hybrid_GA_fmincon_OptResDisplay/result_pic/%E9%87%87%E7%94%A8%E5%89%8D%E5%90%8E%E7%BC%98%E6%8B%9F%E5%90%88%E5%87%BD%E6%95%B0%E7%BB%98%E5%88%B6%E5%8F%B3%E4%BE%A7%E7%BF%85%E8%86%80%E5%BD%A2%E8%B2%8C%2C%20%E6%89%AD%E8%BD%AC%E8%BD%B4%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%92%8C%E5%8E%8B%E5%BF%83%E9%9A%8F%E6%97%B6%E9%97%B4%E5%92%8C%E7%A9%BA%E9%97%B4%E7%9A%84%E5%88%86%E5%B8%83.bmp)
-
 
 # 1. 展向(x-axis)气动力, 力矩和转动阻尼力矩
 
