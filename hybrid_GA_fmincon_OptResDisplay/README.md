@@ -3,7 +3,7 @@
 # 1. 扭转轴的位置和压心随时间和空间的分布
 
 ## 采用前后缘拟合函数绘制右侧翅膀形貌, 扭转轴的位置和压心随时间和空间的分布
-![miscellaneous](https://github.com/xijunke/HoverEnergyConsumptionOptimizations_WGP/blob/main/hybrid_GA_fmincon_OptResDisplay/result_pic/%E9%87%87%E7%94%A8%E5%89%8D%E5%90%8E%E7%BC%98%E6%8B%9F%E5%90%88%E5%87%BD%E6%95%B0%E7%BB%98%E5%88%B6%E5%8F%B3%E4%BE%A7%E7%BF%85%E8%86%80%E5%BD%A2%E8%B2%8C%2C%20%E6%89%AD%E8%BD%AC%E8%BD%B4%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%92%8C%E5%8E%8B%E5%BF%83%E9%9A%8F%E6%97%B6%E9%97%B4%E5%92%8C%E7%A9%BA%E9%97%B4%E7%9A%84%E5%88%86%E5%B8%83.bmp)
+![miscellaneous](https://github.com/xijunke/HoverEnergyConsumptionOptimizations_WGP/blob/main/hybrid_GA_fmincon_OptResDisplay/result_wing_morph/20150204-%E8%AE%A1%E7%AE%97%E7%BB%93%E6%9E%9C-good-wing_morph.bmp)
 
 ## 2 平动环量和转动环量气动力——展向压心与扭转轴之间的距离 (mm)
 ![miscellaneous](https://github.com/xijunke/HoverEnergyConsumptionOptimizations_WGP/blob/main/hybrid_GA_fmincon_OptResDisplay/result_pic/%E5%B9%B3%E5%8A%A8%E7%8E%AF%E9%87%8F%E5%92%8C%E8%BD%AC%E5%8A%A8%E7%8E%AF%E9%87%8F%E6%B0%94%E5%8A%A8%E5%8A%9B%E2%80%94%E2%80%94%E5%B1%95%E5%90%91%E5%8E%8B%E5%BF%83%E4%B8%8E%E6%89%AD%E8%BD%AC%E8%BD%B4%E4%B9%8B%E9%97%B4%E7%9A%84%E8%B7%9D%E7%A6%BB%20(mm).bmp)
