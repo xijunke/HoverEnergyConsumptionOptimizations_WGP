@@ -42,7 +42,7 @@
 ![miscellaneous](https://github.com/xijunke/HoverEnergyConsumptionOptimizations_WGP/blob/main/hybrid_GA_fmincon_OptResDisplay/result_pic/%E5%B1%95%E5%90%91(x-axis)-%E6%B0%94%E5%8A%A8%E5%8A%9B%E7%9F%A9%2C%E9%93%B0%E9%93%BE%E5%9B%9E%E5%A4%8D%E5%8A%9B%E7%9F%A9%E5%92%8C%E7%BF%85%E8%86%80%E8%87%AA%E8%BA%AB%E6%83%AF%E6%80%A7%E5%8A%9B%E5%8A%9B%E7%9F%A9%E5%8F%8A%E6%80%BB%E5%8A%9B%E7%9F%A9-%E9%9A%8F%E6%97%B6%E9%97%B4%E7%9A%84%E5%8F%98%E5%8C%96%E8%A7%84%E5%BE%8B.bmp)
 
 ## 2.10 被动扭转气动力矩的总和(展向-x-axis)气动力矩随时间的变化规律
-![miscellaneous](https://github.com/xijunke/HoverEnergyConsumptionOptimizations_WGP/blob/main/hybrid_GA_fmincon_OptResDisplay/result_pic/%E5%BC%A6%E5%90%91(https://github.com/xijunke/HoverEnergyConsumptionOptimizations_WGP/blob/main/hybrid_GA_fmincon_OptResDisplay/result_pic/%E8%A2%AB%E5%8A%A8%E6%89%AD%E8%BD%AC%E6%B0%94%E5%8A%A8%E5%8A%9B%E7%9F%A9%E7%9A%84%E6%80%BB%E5%92%8C(%E5%B1%95%E5%90%91-x-axis)%E6%B0%94%E5%8A%A8%E5%8A%9B%E7%9F%A9%E9%9A%8F%E6%97%B6%E9%97%B4%E7%9A%84%E5%8F%98%E5%8C%96%E8%A7%84%E5%BE%8B.bmp)
+![miscellaneous](https://github.com/xijunke/HoverEnergyConsumptionOptimizations_WGP/blob/main/hybrid_GA_fmincon_OptResDisplay/result_pic/%E8%A2%AB%E5%8A%A8%E6%89%AD%E8%BD%AC%E6%B0%94%E5%8A%A8%E5%8A%9B%E7%9F%A9%E7%9A%84%E6%80%BB%E5%92%8C(%E5%B1%95%E5%90%91-x-axis)%E6%B0%94%E5%8A%A8%E5%8A%9B%E7%9F%A9%E9%9A%8F%E6%97%B6%E9%97%B4%E7%9A%84%E5%8F%98%E5%8C%96%E8%A7%84%E5%BE%8B.bmp)
 
 
 
