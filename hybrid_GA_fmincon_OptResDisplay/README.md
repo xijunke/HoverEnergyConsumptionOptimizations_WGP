@@ -1,4 +1,4 @@
-# Miscellaneous Pitures to help analize the aerodynamic force and moment of flapping wing for Diptera Fruity Fly
+# Miscellaneous Pitures are ploted to help analyze the aerodynamic force and moment of flapping wing for Diptera Fruity Fly
 
 # 1. 扭转轴的位置和压心随时间和空间的分布
 
