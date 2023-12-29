@@ -53,6 +53,9 @@ Aerodynamic force inbcludes normal force to wing plane, which are decomposed int
 ## 沿着拍打轴z-axis的气动力矩
 ![calculated results](https://github.com/xijunke/HoverEnergyConsumptionOptimizations_WGP/blob/main/hybrid_GA_fminsearch_WGP_7_4_for_variable_C_F_2/force_moment_power_20160306/pic_png/%E6%B2%BF%E7%9D%80%E6%8B%8D%E6%89%93%E8%BD%B4z-axis%E7%9A%84%E6%B0%94%E5%8A%A8%E5%8A%9B%E7%9F%A9.png)
 
+## 拍打角和扭转角随时间的变化规律
+![wing_kinematic_motion](https://github.com/xijunke/HoverEnergyConsumptionOptimizations_WGP/blob/main/hybrid_GA_fminsearch_WGP_7_4_for_variable_C_F_2/force_moment_power_20160306/pic_png/%E6%8B%8D%E6%89%93%E8%A7%92%E5%92%8C%E6%89%AD%E8%BD%AC%E8%A7%92%E9%9A%8F%E6%97%B6%E9%97%B4%E7%9A%84%E5%8F%98%E5%8C%96%E8%A7%84%E5%BE%8B.png)
+
 ## 沿着扭转轴x_{rw}-axis的气动功率和惯性功率
 ![calculated results](https://github.com/xijunke/HoverEnergyConsumptionOptimizations_WGP/blob/main/hybrid_GA_fminsearch_WGP_7_4_for_variable_C_F_2/force_moment_power_20160306/pic_png/%E6%B2%BF%E7%9D%80%E6%89%AD%E8%BD%AC%E8%BD%B4x_%7Brw%7D-axis%E7%9A%84%E6%B0%94%E5%8A%A8%E5%8A%9F%E7%8E%87%E5%92%8C%E6%83%AF%E6%80%A7%E5%8A%9F%E7%8E%87.png)
 
